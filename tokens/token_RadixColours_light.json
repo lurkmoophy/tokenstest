@@ -1,0 +1,1986 @@
+{
+  "amber": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fefdfb"
+    },
+    "10": {
+      "comment": "solid backgrounds, buttons, pairs with dark text",
+      "type": "color",
+      "value": "#ffba18"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#ab6400"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#4f3422"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fefbe9"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#fff7c2"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#ffee9c"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#fbe577"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#f3d673"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#e9c162"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#e2a336"
+    },
+    "9": {
+      "comment": "solid backgrounds, buttons, pairs with dark text",
+      "type": "color",
+      "value": "#ffc53d"
+    }
+  },
+  "black": {
+    "A1": {
+      "comment": "Shadows and overlays",
+      "type": "color",
+      "value": "rgba(0, 0, 0, 0.0500)"
+    },
+    "A10": {
+      "comment": "Shadows and overlays",
+      "type": "color",
+      "value": "rgba(0, 0, 0, 0.8000)"
+    },
+    "A11": {
+      "comment": "Shadows and overlays",
+      "type": "color",
+      "value": "rgba(0, 0, 0, 0.9000)"
+    },
+    "A12": {
+      "comment": "Shadows and overlays",
+      "type": "color",
+      "value": "rgba(0, 0, 0, 0.9500)"
+    },
+    "A2": {
+      "comment": "Shadows and overlays",
+      "type": "color",
+      "value": "rgba(0, 0, 0, 0.1000)"
+    },
+    "A3": {
+      "comment": "Shadows and overlays",
+      "type": "color",
+      "value": "rgba(0, 0, 0, 0.1500)"
+    },
+    "A4": {
+      "comment": "Shadows and overlays",
+      "type": "color",
+      "value": "rgba(0, 0, 0, 0.2000)"
+    },
+    "A5": {
+      "comment": "Shadows and overlays",
+      "type": "color",
+      "value": "rgba(0, 0, 0, 0.3000)"
+    },
+    "A6": {
+      "comment": "Shadows and overlays",
+      "type": "color",
+      "value": "rgba(0, 0, 0, 0.4000)"
+    },
+    "A7": {
+      "comment": "Shadows and overlays",
+      "type": "color",
+      "value": "rgba(0, 0, 0, 0.5000)"
+    },
+    "A8": {
+      "comment": "Shadows and overlays",
+      "type": "color",
+      "value": "rgba(0, 0, 0, 0.6000)"
+    },
+    "A9": {
+      "comment": "Shadows and overlays",
+      "type": "color",
+      "value": "rgba(0, 0, 0, 0.7000)"
+    }
+  },
+  "blue": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fbfdff"
+    },
+    "10": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#0588f0"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#0d74ce"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#113264"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#f4faff"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#e6f4fe"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#d5efff"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#c2e5ff"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#acd8fc"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#8ec8f6"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#5eb1ef"
+    },
+    "9": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#0090ff"
+    }
+  },
+  "bronze": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fdfcfc"
+    },
+    "10": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#957468"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#7d5e54"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#43302b"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fdf7f5"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#f6edea"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#efe4df"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#e7d9d3"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#dfcdc5"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#d3bcb3"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#c2a499"
+    },
+    "9": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#a18072"
+    }
+  },
+  "brown": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fefdfc"
+    },
+    "10": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#a07553"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#815e46"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#3e332e"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fcf9f6"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#f6eee7"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#f0e4d9"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#ebdaca"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#e4cdb7"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#dcbc9f"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#cea37e"
+    },
+    "9": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#ad7f58"
+    }
+  },
+  "crimson": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fffcfd"
+    },
+    "10": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#df3478"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#cb1d63"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#621639"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fef7f9"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#ffe9f0"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#fedce7"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#facedd"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#f3bed1"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#eaacc3"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#e093b2"
+    },
+    "9": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#e93d82"
+    }
+  },
+  "cyan": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fafdfe"
+    },
+    "10": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#0797b9"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#107d98"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#0d3c48"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#f2fafb"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#def7f9"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#caf1f6"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#b5e9f0"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#9ddde7"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#7dcedc"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#3db9cf"
+    },
+    "9": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#00a2c7"
+    }
+  },
+  "gold": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fdfdfc"
+    },
+    "10": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#8c7a5e"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#71624b"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#3b352b"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#faf9f2"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#f2f0e7"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#eae6db"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#e1dccf"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#d8d0bf"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#cbc0aa"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#b9a88d"
+    },
+    "9": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#978365"
+    }
+  },
+  "grass": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fbfefb"
+    },
+    "10": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#3e9b4f"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#2a7e3b"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#203c25"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#f5fbf5"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#e9f6e9"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#daf1db"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#c9e8ca"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#b2ddb5"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#94ce9a"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#65ba74"
+    },
+    "9": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#46a758"
+    }
+  },
+  "gray": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fcfcfc"
+    },
+    "10": {
+      "comment": "solid backgrounds, disabled text, pairs with white text",
+      "type": "color",
+      "value": "#858585"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#6f6f6f"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#171717"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#f8f8f8"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#f3f3f3"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#ededed"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#e8e8e8"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#e2e2e2"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#dbdbdb"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#c7c7c7"
+    },
+    "9": {
+      "comment": "solid backgrounds, disabled text, pairs with white text",
+      "type": "color",
+      "value": "#8f8f8f"
+    }
+  },
+  "green": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fbfefc"
+    },
+    "10": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#2b9a66"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#218358"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#193b2d"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#f4fbf6"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#e6f6eb"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#d6f1df"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#c4e8d1"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#adddc0"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#8eceaa"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#5bb98b"
+    },
+    "9": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#30a46c"
+    }
+  },
+  "indigo": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fdfdfe"
+    },
+    "10": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#3358d4"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#3a5bc7"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#1f2d5c"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#f7f9ff"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#edf2fe"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#e1e9ff"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#d2deff"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#c1d0ff"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#abbdf9"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#8da4ef"
+    },
+    "9": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#3e63dd"
+    }
+  },
+  "iris": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fdfdff"
+    },
+    "10": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#5151cd"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#5753c6"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#272962"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#f8f8ff"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#f0f1fe"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#e6e7ff"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#dadcff"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#cbcdff"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#b8baf8"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#9b9ef0"
+    },
+    "9": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#5b5bd6"
+    }
+  },
+  "jade": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fbfefd"
+    },
+    "10": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#26997b"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#208368"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#1d3b31"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#f4fbf7"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#e6f7ed"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#d6f1e3"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#c3e9d7"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#acdec8"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#8bceb6"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#56ba9f"
+    },
+    "9": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#29a383"
+    }
+  },
+  "lime": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fcfdfa"
+    },
+    "10": {
+      "comment": "solid backgrounds, buttons, pairs with dark text",
+      "type": "color",
+      "value": "#b0e64c"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#5c7c2f"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#37401c"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#f8faf3"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#eef6d6"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#e2f0bd"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#d3e7a6"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#c2da91"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#abc978"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#8db654"
+    },
+    "9": {
+      "comment": "solid backgrounds, buttons, pairs with dark text",
+      "type": "color",
+      "value": "#bdee63"
+    }
+  },
+  "mauve": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fdfcfd"
+    },
+    "10": {
+      "comment": "solid backgrounds, disabled text, pairs with white text",
+      "type": "color",
+      "value": "#86848d"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#6f6e77"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#1a1523"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#f9f8f9"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#f4f2f4"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#eeedef"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#e9e8ea"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#e4e2e4"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#dcdbdd"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#c8c7cb"
+    },
+    "9": {
+      "comment": "solid backgrounds, disabled text, pairs with white text",
+      "type": "color",
+      "value": "#908e96"
+    }
+  },
+  "mint": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#f9fefd"
+    },
+    "10": {
+      "comment": "solid backgrounds, buttons, pairs with dark text",
+      "type": "color",
+      "value": "#7de0cb"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#027864"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#16433c"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#f2fbf9"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#ddf9f2"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#c8f4e9"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#b3ecde"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#9ce0d0"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#7ecfbd"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#4cbba5"
+    },
+    "9": {
+      "comment": "solid backgrounds, buttons, pairs with dark text",
+      "type": "color",
+      "value": "#86ead4"
+    }
+  },
+  "olive": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fcfdfc"
+    },
+    "10": {
+      "comment": "solid backgrounds, disabled text, pairs with white text",
+      "type": "color",
+      "value": "#7f847d"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#60655f"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#1d211c"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#f8faf8"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#eff1ef"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#e7e9e7"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#dfe2df"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#d7dad7"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#cccfcc"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#b9bcb8"
+    },
+    "9": {
+      "comment": "solid backgrounds, disabled text, pairs with white text",
+      "type": "color",
+      "value": "#898e87"
+    }
+  },
+  "orange": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fefcfb"
+    },
+    "10": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#ef5f00"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#cc4e00"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#582d1d"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fff7ed"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#ffefd6"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#ffdfb5"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#ffd19a"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#ffc182"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#f5ae73"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#ec9455"
+    },
+    "9": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#f76b15"
+    }
+  },
+  "pink": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fffcfe"
+    },
+    "10": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#cf3897"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#c2298a"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#651249"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fef7fb"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#fee9f5"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#fbdcef"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#f6cee7"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#efbfdd"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#e7acd0"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#dd93c2"
+    },
+    "9": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#d6409f"
+    }
+  },
+  "plum": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fefcff"
+    },
+    "10": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#a144af"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#953ea3"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#53195d"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fdf7fd"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#fbebfb"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#f7def8"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#f2d1f3"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#e9c2ec"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#deade3"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#cf91d8"
+    },
+    "9": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#ab4aba"
+    }
+  },
+  "purple": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fefcfe"
+    },
+    "10": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#8347b9"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#8145b5"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#402060"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fbf7fe"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#f7edfe"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#f2e2fc"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#ead5f9"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#e0c4f4"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#d1afec"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#be93e4"
+    },
+    "9": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#8e4ec6"
+    }
+  },
+  "red": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fffcfc"
+    },
+    "10": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#dc3e42"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#ce2c31"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#641723"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fff7f7"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#feebec"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#ffdbdc"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#ffcdce"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#fdbdbe"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#f4a9aa"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#eb8e90"
+    },
+    "9": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#e5484d"
+    }
+  },
+  "ruby": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fffcfd"
+    },
+    "10": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#dc3b5d"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#ca244d"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#64172b"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fff7f8"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#feeaed"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#ffdce1"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#ffced6"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#f8bfc8"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#efacb8"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#e592a3"
+    },
+    "9": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#e54666"
+    }
+  },
+  "sage": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fbfdfc"
+    },
+    "10": {
+      "comment": "solid backgrounds, disabled text, pairs with white text",
+      "type": "color",
+      "value": "#7c8481"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#5f6563"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#1a211e"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#f7f9f8"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#eef1f0"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#e6e9e8"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#dfe2e0"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#d7dad9"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#cbcfcd"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#b8bcba"
+    },
+    "9": {
+      "comment": "solid backgrounds, disabled text, pairs with white text",
+      "type": "color",
+      "value": "#868e8b"
+    }
+  },
+  "sand": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fdfdfc"
+    },
+    "10": {
+      "comment": "solid backgrounds, disabled text, pairs with white text",
+      "type": "color",
+      "value": "#82827c"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#63635e"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#21201c"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#f9f9f8"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#f1f0ef"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#e9e8e6"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#e2e1de"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#dad9d6"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#cfceca"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#bcbbb5"
+    },
+    "9": {
+      "comment": "solid backgrounds, disabled text, pairs with white text",
+      "type": "color",
+      "value": "#8d8d86"
+    }
+  },
+  "sky": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#f9feff"
+    },
+    "10": {
+      "comment": "solid backgrounds, buttons, pairs with dark text",
+      "type": "color",
+      "value": "#74daf8"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#00749e"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#1d3e56"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#f1fafd"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#e1f6fd"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#d1f0fa"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#bee7f5"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#a9daed"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#8dcae3"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#60b3d7"
+    },
+    "9": {
+      "comment": "solid backgrounds, buttons, pairs with dark text",
+      "type": "color",
+      "value": "#7ce2fe"
+    }
+  },
+  "slate": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fbfcfd"
+    },
+    "10": {
+      "comment": "solid backgrounds, disabled text, pairs with white text",
+      "type": "color",
+      "value": "#7e868c"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#687076"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#11181c"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#f8f9fa"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#f1f3f5"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#eceef0"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#e6e8eb"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#dfe3e6"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#d7dbdf"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#c1c8cd"
+    },
+    "9": {
+      "comment": "solid backgrounds, disabled text, pairs with white text",
+      "type": "color",
+      "value": "#889096"
+    }
+  },
+  "teal": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fafefd"
+    },
+    "10": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#0d9b8a"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#008573"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#0d3d38"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#f3fbf9"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#e0f8f3"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#ccf3ea"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#b8eae0"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#a1ded2"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#83cdc1"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#53b9ab"
+    },
+    "9": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#12a594"
+    }
+  },
+  "tomato": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fffcfc"
+    },
+    "10": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#dd4425"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#d13415"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#5c271f"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fff8f7"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#feebe7"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#ffdcd3"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#ffcdc2"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#fdbdaf"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#f5a898"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#ec8e7b"
+    },
+    "9": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#e54d2e"
+    }
+  },
+  "violet": {
+    "1": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#fdfcfe"
+    },
+    "10": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#654dc4"
+    },
+    "11": {
+      "comment": "secondary text, links, pairs with background colours",
+      "type": "color",
+      "value": "#6550b9"
+    },
+    "12": {
+      "comment": "high-contrast text, pairs with background colours",
+      "type": "color",
+      "value": "#2f265f"
+    },
+    "2": {
+      "comment": "background, pairs with steps 11, 12 text",
+      "type": "color",
+      "value": "#faf8ff"
+    },
+    "3": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#f4f0fe"
+    },
+    "4": {
+      "comment": "interactive components, pairs with steps 11 labels, step 12 text",
+      "type": "color",
+      "value": "#ebe4ff"
+    },
+    "5": {
+      "comment": "interactive components, pairs with step 12 labels",
+      "type": "color",
+      "value": "#e1d9ff"
+    },
+    "6": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#d4cafe"
+    },
+    "7": {
+      "comment": "borders and separators, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#c2b5f5"
+    },
+    "8": {
+      "comment": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds",
+      "type": "color",
+      "value": "#aa99ec"
+    },
+    "9": {
+      "comment": "solid backgrounds, buttons, pairs with white text",
+      "type": "color",
+      "value": "#6e56cf"
+    }
+  },
+  "white": {
+    "A1": {
+      "comment": "Highlights and overlays",
+      "type": "color",
+      "value": "rgba(255, 255, 255, 0.0500)"
+    },
+    "A10": {
+      "comment": "Highlights and overlays",
+      "type": "color",
+      "value": "rgba(255, 255, 255, 0.8000)"
+    },
+    "A11": {
+      "comment": "Highlights and overlays",
+      "type": "color",
+      "value": "rgba(255, 255, 255, 0.9000)"
+    },
+    "A12": {
+      "comment": "Highlights and overlays",
+      "type": "color",
+      "value": "rgba(255, 255, 255, 0.9500)"
+    },
+    "A2": {
+      "comment": "Highlights and overlays",
+      "type": "color",
+      "value": "rgba(255, 255, 255, 0.1000)"
+    },
+    "A3": {
+      "comment": "Highlights and overlays",
+      "type": "color",
+      "value": "rgba(255, 255, 255, 0.1500)"
+    },
+    "A4": {
+      "comment": "Highlights and overlays",
+      "type": "color",
+      "value": "rgba(255, 255, 255, 0.2000)"
+    },
+    "A5": {
+      "comment": "Highlights and overlays",
+      "type": "color",
+      "value": "rgba(255, 255, 255, 0.3000)"
+    },
+    "A6": {
+      "comment": "Highlights and overlays",
+      "type": "color",
+      "value": "rgba(255, 255, 255, 0.4000)"
+    },
+    "A7": {
+      "comment": "Highlights and overlays",
+      "type": "color",
+      "value": "rgba(255, 255, 255, 0.5000)"
+    },
+    "A8": {
+      "comment": "Highlights and overlays",
+      "type": "color",
+      "value": "rgba(255, 255, 255, 0.6000)"
+    },
+    "A9": {
+      "comment": "Highlights and overlays",
+      "type": "color",
+      "value": "rgba(255, 255, 255, 0.7000)"
+    }
+  }
+}
