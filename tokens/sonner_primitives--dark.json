@@ -1,0 +1,62 @@
+{
+  "error-bg": {
+    "type": "color",
+    "value": "#2d0607"
+  },
+  "error-border": {
+    "type": "color",
+    "value": "#4d0408"
+  },
+  "error-text": {
+    "type": "color",
+    "value": "#ff9ea1"
+  },
+  "info-bg": {
+    "type": "color",
+    "value": "#000d1f"
+  },
+  "info-border": {
+    "type": "color",
+    "value": "#00113d"
+  },
+  "info-text": {
+    "type": "color",
+    "value": "#5896f3"
+  },
+  "normal-bg": {
+    "type": "color",
+    "value": "{base.black}"
+  },
+  "normal-border": {
+    "type": "color",
+    "value": "#333333"
+  },
+  "normal-text": {
+    "type": "color",
+    "value": "{gray.1}"
+  },
+  "success-bg": {
+    "type": "color",
+    "value": "#001f0f"
+  },
+  "success-border": {
+    "type": "color",
+    "value": "#003d1c"
+  },
+  "success-text": {
+    "type": "color",
+    "value": "#59f3a6"
+  },
+  "warning-bg": {
+    "type": "color",
+    "value": "#1d1f00"
+  },
+  "warning-border": {
+    "type": "color",
+    "value": "#3d3d00"
+  },
+  "warning-text": {
+    "type": "color",
+    "value": "#f3cf58"
+  }
+}

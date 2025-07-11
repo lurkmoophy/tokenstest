@@ -1,0 +1,62 @@
+export default {
+  "error-bg": {
+    "type": "color",
+    "value": "#fff0f0"
+  },
+  "error-border": {
+    "type": "color",
+    "value": "#ffe0e1"
+  },
+  "error-text": {
+    "type": "color",
+    "value": "#e60000"
+  },
+  "info-bg": {
+    "type": "color",
+    "value": "#f0f8ff"
+  },
+  "info-border": {
+    "type": "color",
+    "value": "#d3e0fd"
+  },
+  "info-text": {
+    "type": "color",
+    "value": "#0973dc"
+  },
+  "normal-bg": {
+    "type": "color",
+    "value": "{base.white}"
+  },
+  "normal-border": {
+    "type": "color",
+    "value": "{gray.4}"
+  },
+  "normal-text": {
+    "type": "color",
+    "value": "{gray.12}"
+  },
+  "success-bg": {
+    "type": "color",
+    "value": "#ecfdf2"
+  },
+  "success-border": {
+    "type": "color",
+    "value": "#d3fde5"
+  },
+  "success-text": {
+    "type": "color",
+    "value": "#008a2e"
+  },
+  "warning-bg": {
+    "type": "color",
+    "value": "#fffcf0"
+  },
+  "warning-border": {
+    "type": "color",
+    "value": "#fdf5d3"
+  },
+  "warning-text": {
+    "type": "color",
+    "value": "#dc7609"
+  }
+};

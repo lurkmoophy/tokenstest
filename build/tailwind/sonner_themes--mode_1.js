@@ -1,0 +1,76 @@
+export default {
+  "toaster": {
+    "normal": {
+      "background": {
+        "type": "color",
+        "value": "{normal-bg}"
+      },
+      "border-color": {
+        "type": "color",
+        "value": "{normal-border}"
+      },
+      "color": {
+        "type": "color",
+        "value": "{normal-text}"
+      }
+    },
+    "richColors": {
+      "error": {
+        "background": {
+          "type": "color",
+          "value": "{error-bg}"
+        },
+        "border-color": {
+          "type": "color",
+          "value": "{error-border}"
+        },
+        "color": {
+          "type": "color",
+          "value": "{error-text}"
+        }
+      },
+      "info": {
+        "background": {
+          "type": "color",
+          "value": "{info-bg}"
+        },
+        "border-color": {
+          "type": "color",
+          "value": "{info-border}"
+        },
+        "color": {
+          "type": "color",
+          "value": "{info-text}"
+        }
+      },
+      "success": {
+        "background": {
+          "type": "color",
+          "value": "{success-bg}"
+        },
+        "border-color": {
+          "type": "color",
+          "value": "{success-border}"
+        },
+        "color": {
+          "type": "color",
+          "value": "{success-text}"
+        }
+      },
+      "warning": {
+        "background": {
+          "type": "color",
+          "value": "{warning-bg}"
+        },
+        "border-color": {
+          "type": "color",
+          "value": "{warning-border}"
+        },
+        "color": {
+          "type": "color",
+          "value": "{warning-text}"
+        }
+      }
+    }
+  }
+};
